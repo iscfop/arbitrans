@@ -1,5 +1,5 @@
   ARBITRANS
 =============
 
-	Proyecto enfocado para contadores que desean administrar sus clientes.
+	Project for management countable of customers.
 
