@@ -1,5 +1,5 @@
   ARBITRANS
 =============
 
-	Proyecto que administra y gestiona CFDIs para REPECO
+	Proyecto enfocado para contadores que desean administrar sus clientes.
 
